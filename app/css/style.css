@@ -1,0 +1,28 @@
+main {
+  margin-bottom: 20px;
+}
+
+.container {
+  max-width: 939px;
+}
+
+aside {
+  background-color: #EEE;
+  padding: 12px;
+}
+
+.btn-table {
+  padding: 3px 8px;
+}
+
+.table.table-resource td {
+  vertical-align: middle;
+}
+
+table input {
+  width: 100%;
+}
+
+form input, form .btn {
+  margin-bottom: 6px;
+}
